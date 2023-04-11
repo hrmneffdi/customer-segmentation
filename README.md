@@ -12,3 +12,12 @@ Code ini berisi tentang langkah-langkah melakukan segmentasi pada data customer.
 * Seaborn 0.12.1
 * Kmodes 0.12.2
 * Scikit-Learn 1.2.2
+<br>
+
+#Fitur
+
+* data aqcusition
+* data preprocessing
+* ekplorasi data analist
+* modelling
+* predicting
