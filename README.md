@@ -18,6 +18,6 @@ Code ini berisi tentang langkah-langkah melakukan segmentasi pada data customer.
 
 * ## Data aqcusition
 * ## Data preprocessing
-* ## Ekplorasi data analist
+* ## Ekplorasi data analis
 * ## Modelling
 * ## Predicting
