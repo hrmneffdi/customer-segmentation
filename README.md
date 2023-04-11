@@ -16,8 +16,8 @@ Code ini berisi tentang langkah-langkah melakukan segmentasi pada data customer.
 
 # Fitur
 
-* data aqcusition
-* data preprocessing
-* ekplorasi data analist
-* modelling
-* predicting
+* ## Data aqcusition
+* ## Data preprocessing
+* ## Ekplorasi data analist
+* ## Modelling
+* ## Predicting
