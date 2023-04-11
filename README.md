@@ -14,7 +14,7 @@ Code ini berisi tentang langkah-langkah melakukan segmentasi pada data customer.
 * Scikit-Learn 1.2.2
 <br>
 
-#Fitur
+# Fitur
 
 * data aqcusition
 * data preprocessing
